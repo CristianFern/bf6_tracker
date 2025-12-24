@@ -1,0 +1,15 @@
+h1{
+    vertical-align: center;
+    text-align: center;
+    font-family: "Georgia", serif;
+}
+
+div{
+    vertical-align: center;
+    text-align: center;
+}
+
+#playerNameSearch{
+    padding: 5px;
+    margin: 15px
+}
